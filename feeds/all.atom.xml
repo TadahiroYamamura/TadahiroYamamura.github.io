@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Tamago</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2019-08-18T00:00:00+09:00</updated><entry><title>はじめての投稿</title><link href="/hazimetenotou-gao.html" rel="alternate"></link><published>2019-08-18T00:00:00+09:00</published><updated>2019-08-18T00:00:00+09:00</updated><author><name>Tadahiro Yamamura</name></author><id>tag:None,2019-08-18:/hazimetenotou-gao.html</id><summary type="html">&lt;p&gt;Pelicanを使用したはじめてのページ生成&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Hello world!&lt;/h1&gt;
+&lt;p&gt;これは &lt;strong&gt;初めて作成した&lt;/strong&gt; ページです。&lt;/p&gt;</content></entry></feed>
